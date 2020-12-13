@@ -31,7 +31,7 @@
 - Title: Set a title of the current axes.
 - Xlabel: Set the x axis label of the current axis.
 - Xlim: Get or set the x limits of the current axes.
-- Xscale: .
+- Xscale: 
 - Xticks: Get or set the x-limits of the current tick locations and labels.
 - Ylabel: Set the y axis label of the current axis.
 - Ylim: Get or set the y-limits of the current axes.
